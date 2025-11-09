@@ -1,0 +1,3 @@
+data:
+  train_csv: data/pol_latn_broad.tsv
+  validation_csv: data/pol_latn_broad.tsv
